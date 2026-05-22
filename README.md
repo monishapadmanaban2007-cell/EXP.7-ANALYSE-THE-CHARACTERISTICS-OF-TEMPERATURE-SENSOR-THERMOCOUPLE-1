@@ -40,3 +40,11 @@ Reference Temperature:
 Output temperature: 
 
 ## Result: 
+<img width="994" height="676" alt="Screenshot 2026-05-22 110731" src="https://github.com/user-attachments/assets/2218eb6c-a94c-4183-9bd1-5638eb1600c3" />
+
+<img width="305" height="154" alt="Screenshot 2026-05-22 112038" src="https://github.com/user-attachments/assets/3763329d-6e2e-40fd-bc6b-61771c36e016" />
+<img width="312" height="204" alt="Screenshot 2026-05-22 112051" src="https://github.com/user-attachments/assets/7469ada2-2d8f-4c6f-9630-94cebed79b4f" />
+<img width="316" height="174" alt="Screenshot 2026-05-22 112100" src="https://github.com/user-attachments/assets/0fbdec8e-d9f2-4c7f-9865-bd874fd3944d" />
+
+
+
