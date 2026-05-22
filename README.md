@@ -28,11 +28,12 @@ When you click on 'Level 2' tab, you can verify the Dynamic response of the ther
 
 ## CIRCUIT dIAGRAM:
 
-<img width="280" height="364" alt="image" src="https://github.com/user-attachments/assets/8bcab162-fe8c-448a-bae1-c619c036b913" />
+<img width="396" height="637" alt="Screenshot 2026-05-22 102114" src="https://github.com/user-attachments/assets/be780f70-97a2-473a-83b9-30ca9e975205" />
+
 
 ## output:
 
-Thermocouple type:
+Thermocouple type: 
 
 Reference Temperature:
 
